@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **astronomy related projects**
 
-- 🌱 I’m currently learning **all about computer vision**
-
 - 👯 I’m looking to collaborate on **AI/ML/DL Projects**
 
 - 💬 Ask me about **Data Analysis, AI/ML and Astronomy**
