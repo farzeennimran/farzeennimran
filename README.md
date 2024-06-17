@@ -50,3 +50,6 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzeennimran&show_icons=true&locale=en&layout=compact" alt="farzeennimran" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzeennimran&" alt="farzeennimran" /></p>
