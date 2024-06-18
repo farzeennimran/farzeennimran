@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Generative AI and astronomy related projects**
 
-- 👯 I’m looking to collaborate on **AI/ML/DL Projects**
+- 👯 I’m looking to collaborate on **AI/ML Projects**
 
 - 💬 Ask me about **Data Analysis, AI/ML and Astronomy**
 
