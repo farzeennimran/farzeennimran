@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
 - 💬 Ask me about **Data Analysis, AI/ML and Astronomy**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/farzeennimran" target="_blank">
