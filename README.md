@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/farzeen-imran-477094206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.kaggle.com/farzeenimran" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
