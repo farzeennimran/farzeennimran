@@ -51,3 +51,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzeennimran&show_icons=true&locale=en&layout=compact&bg_color=2f4f4f&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="farzeennimran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzeennimran&background=2f4f4f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff" alt="farzeennimran" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=farzeennimran)](https://github.com/ryo-ma/github-profile-trophy)
