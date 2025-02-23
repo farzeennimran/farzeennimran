@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzeen Imran</h1>
 <h3 align="center">A passionate data scientist working with AI/ML</h3>
-
-- 🔭 I’m currently working on **Generative AI and astronomy related projects**
-
-- 👯 I’m looking to collaborate on **AI/ML Projects**
-
-- 💬 Ask me about **Data Analysis, AI/ML and Astronomy**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
