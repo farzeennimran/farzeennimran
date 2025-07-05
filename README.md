@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzeen Imran</h1>
-<h3 align="center">A passionate data scientist working with AI/ML</h3>
+<h3 align="center">Data scientist working with AI/ML</h3>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
