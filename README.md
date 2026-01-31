@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -47,6 +48,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzeennimran&show_icons=true&locale=en&layout=compact&bg_color=2f4f4f&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="farzeennimran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzeennimran&background=2f4f4f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff" alt="farzeennimran" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farzeennimran&theme=dark)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=farzeennimran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=farzeennimran&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
