@@ -51,3 +51,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=farzeennimran&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=farzeennimran)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Farzeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzeennimran&show_icons=true&theme=radical)
+
