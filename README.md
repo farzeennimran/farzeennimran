@@ -46,11 +46,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzeennimran&show_icons=true&locale=en&layout=compact&bg_color=2f4f4f&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="farzeennimran" /></p>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=farzeennimran&theme=dark)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=farzeennimran)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=farzeennimran&theme=onedark)](https://github.com/farzeennimran/github-trophies)
 
-![Farzeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzeennimran&show_icons=true&theme=radical)
-
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=farzeennimran&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/pranesh-2005/github-readme-stats-fast)
