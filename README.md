@@ -20,8 +20,6 @@
 <hr style="height:1px;border:none;color:#444;background-color:#444;" />
 
 <h2 align="center">🛠️ Tools and Languages</h2>
-
-<h3 align="left">AI Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange" alt="Machine Learning">
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLMs">
@@ -38,8 +36,6 @@
   <img src="https://img.shields.io/badge/Azure%20AI-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI">
   <img src="https://img.shields.io/badge/AI%20Foundry-FF9900?style=for-the-badge" alt="AI Foundry">
 </p>
-
-<h3 align="left">Data & Visualization:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
@@ -55,8 +51,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop">
 </p>
-
-<h3 align="left">DevOps & Code Quality:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -68,8 +62,6 @@
   <img src="https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge" alt="Checkmarx">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
-
-<h3 align="left">IDEs & Editors:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
@@ -77,8 +69,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server Management Studio">
 </p>
-
-<h3 align="left">Languages:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
