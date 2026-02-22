@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="keras">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace">
   <img src="https://img.shields.io/badge/LLaMA-1D3557?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA">
@@ -37,8 +36,6 @@
   <img src="https://img.shields.io/badge/AI%20Foundry-FF9900?style=for-the-badge" alt="AI Foundry">
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
@@ -57,9 +54,6 @@
   <img src="https://img.shields.io/badge/Azure%20Kubernetes%20Service-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white" alt="AKS">
   <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
-  <img src="https://img.shields.io/badge/Twistlock-005E7A?style=for-the-badge" alt="Twistlock">
-  <img src="https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge" alt="Checkmarx">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
 <p align="left">
