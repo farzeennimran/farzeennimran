@@ -9,9 +9,6 @@
   <a href="mailto:farzeeenimran@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
 </p>
 
 <hr style="height:1px;border:none;color:#444;background-color:#444;" />
