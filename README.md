@@ -10,10 +10,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/></i></b> 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
+
 <hr style="height:1px;border:none;color:#444;background-color:#444;" />
 
-<h2 align="center">🛠️ Tools and Languages</h2>
+<h2 align="center">🛠️ Tools and Languages</h2> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange" alt="Machine Learning">
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLMs">
