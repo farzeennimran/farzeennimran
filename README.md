@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/></i></b> 
 <hr style="height:1px;border:none;color:#444;background-color:#444;" />
 
 <h2 align="center">🛠️ Tools and Languages</h2>
